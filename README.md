@@ -1,5 +1,5 @@
 ## Simple GraphQL Api example.
-### A simple graphql api endpoint typescript project. You can create user, update and remove user. You can also create posts associated to the user.
+##### A simple graphql api endpoint typescript project. You can create user, update and remove user. You can also create posts associated to the user.
 
 ## Installation:
 ``
